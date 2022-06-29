@@ -30,6 +30,7 @@ A collection of edge detection papers and corresponding source code/demo program
 | [NYUDv2](https://github.com/s-gupta/rgbd#notes) | [Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf) | CVPR 2013 | Edges come from the boundary of annotated segmentation mask. |
 | [Multi-cue](https://serre-lab.clps.brown.edu/resource/multicue/) | [A systematic comparison between visual cues for boundary detection](https://pubmed.ncbi.nlm.nih.gov/26748113/) | Vision research 2016 | With boundary annotations. |
 | [Wireframe](https://github.com/cherubicxn/hawp#data-preparation) | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/2003.01663) | CVPR 2020 | Edges come from the annotated wireframe. |
+| [BIPED](https://www.kaggle.com/datasets/xavysp/biped) | [Dense Extreme Inception Network for Edge Detection](https://arxiv.org/abs/2112.02250) | WACV 2020 | Dataset for edge detection, the edge-maps (ground truth) are carefully annotated, use the second versión (BIPEDv2). |
 
 ---
 
