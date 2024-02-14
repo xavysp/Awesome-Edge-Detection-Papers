@@ -30,6 +30,7 @@ A collection of edge detection papers and corresponding source code/demo program
 | [NYUDv2](https://github.com/s-gupta/rgbd#notes) | [Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf) | CVPR 2013 | Edges come from the boundary of annotated segmentation mask. |
 | [Multi-cue](https://serre-lab.clps.brown.edu/resource/multicue/) | [A systematic comparison between visual cues for boundary detection](https://pubmed.ncbi.nlm.nih.gov/26748113/) | Vision research 2016 | With boundary annotations. |
 | [Wireframe](https://github.com/cherubicxn/hawp#data-preparation) | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/2003.01663) | CVPR 2020 | Edges come from the annotated wireframe. |
+| [UDED](https://github.com/xavysp/UDED) | [Tiny and Efficient Model for the Edge Detection Generalization](https://www.computer.org/csdl/proceedings-article/iccvw/2023/074400b356/1TanG0jqm1a) | ICCVW 2023 | Edge level annotation. |
 
 ---
 
@@ -40,6 +41,7 @@ A collection of edge detection papers and corresponding source code/demo program
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | DiffusionEdge | [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://arxiv.org/abs/2401.02032) | AAAI 2024 | [[Code]](https://github.com/GuHuangAI/DiffusionEdge) |
+| TEED | [Tiny and Efficient Model for the Edge Detection Generalization](https://www.computer.org/csdl/proceedings-article/iccvw/2023/074400b356/1TanG0jqm1a) | ICCVW 2023 | [[Code]](https://github.com/xavysp/TEED) |
 | UAED | [The Treasure Beneath Multiple Annotations: An Uncertainty-aware Edge Detector](https://arxiv.org/abs/2303.11828) | CVPR 2023 | [[Code]](https://github.com/ZhouCX117/UAED) |
 | EDTER | [EDTER: Edge Detection with Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Pu_EDTER_Edge_Detection_With_Transformer_CVPR_2022_paper.pdf) | CVPR 2022 | [[Code]](https://github.com/MengyangPu/EDTER) |
 | pidinet | [Pixel Difference Networks for Efficient Edge Detection](https://arxiv.org/abs/2108.07009) | ICCV 2021 | [[Code]](https://github.com/zhuoinoulu/pidinet) |
